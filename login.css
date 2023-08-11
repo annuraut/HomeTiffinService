@@ -1,0 +1,66 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+#login{
+    background-image: url('about.jpg');
+    background-size: cover;
+    border: 3px solid;
+    /* padding-bottom: 200px; */
+    height: 500px;
+}
+
+#login form{
+    /* border: 3px solid; */
+    margin-left: 300px;
+    margin-right: 200px;
+    margin-top:100px;
+    background-color: rgb(45, 40, 40);
+    padding-bottom: 50px;
+    padding-top: 30px;
+    border-radius: 15px;
+}
+
+#login form h1{
+    font-size: 8opx;
+    margin-bottom:20px;
+    color: orange;
+} 
+
+
+#login form input{
+    border: 2px solid orange;
+}
+
+#login form p{
+    color: orange;
+    margin-top: 10px;
+}
+
+#login form p a{
+    text-decoration: none;
+    color: blue;
+}
+
+#login form textarea {
+    border: 2px solid orange;
+    padding-left: 100px;
+    padding-right:230px;
+    border-radius: 10px;
+}
+
+
+
+#login form button{
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:25px;
+    padding-right: 30px;
+    background-color: orange;
+    color: white;
+    margin-left:30px;
+    border: none;
+    border-radius: 10px;
+}
+

@@ -1,0 +1,62 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+#footer{
+  height: 250px;
+  background-color: black;
+}
+
+img{
+  height: 150px;
+  margin-left:100px;
+}
+
+.line2{
+  margin-left:150px;
+  margin-right: 150px;
+  margin-top:30px;
+}
+
+.line2 h3{
+  color:white;
+}
+
+.line2 a{
+  text-decoration: none;
+  font-size: 20px;
+  color: orange;
+}
+
+
+.form{
+  margin-top: 30px;
+  margin-left:200;
+}
+input{
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+  border: none;
+}
+.btn{
+  background-color: orange;
+
+}
+.foot{
+  display: inline-flex;
+}
+
+#footer center h3{
+  color: white;
+  background-color: black;
+}
+
+center h3 span{
+  color: orange;
+}
+

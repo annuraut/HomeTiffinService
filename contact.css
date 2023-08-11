@@ -1,0 +1,59 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+#contact{
+    background-image: url('aa.avif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+
+}
+
+#contact form h1{
+    font-size: 8opx;
+    margin-bottom:20px;
+} 
+#contact form {
+    background: rgba(0, 0, 0, 0.75);
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+#contact form  h1{
+    color: white;
+}
+
+
+
+
+
+#contact form input{
+    border: 2px solid orange;
+    padding-left: 190px;
+    padding-right: 190px;
+    text-align: center;
+}
+
+
+#contact form textarea {
+    border: 2px solid orange;
+    padding-left: 100px;
+    padding-right:230px;
+    border-radius: 10px;
+}
+
+
+
+#contact form button{
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:25px;
+    padding-right: 30px;
+    background-color: orange;
+    color: white;
+    margin-left:30px;
+    border: none;
+    border-radius: 10px;
+}
